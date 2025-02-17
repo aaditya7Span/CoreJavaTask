@@ -1,4 +1,4 @@
-package corejava;
+package corejava.staticdemo;
 
 //Static variable
 class StaticVariable {

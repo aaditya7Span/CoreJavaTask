@@ -1,4 +1,4 @@
-package corejava;
+package corejava.IOstream;
 
 import java.io.BufferedReader;
 import java.io.FileNotFoundException;

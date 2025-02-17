@@ -1,4 +1,4 @@
-package corejava;
+package corejava.threaddemo;
 
 public class ThreadClass extends Thread{
 

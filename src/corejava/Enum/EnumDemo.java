@@ -1,4 +1,4 @@
-package corejava;
+package corejava.Enum;
 
 @Deprecated
 public class EnumDemo {

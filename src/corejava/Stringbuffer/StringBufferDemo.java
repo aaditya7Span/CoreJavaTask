@@ -1,4 +1,4 @@
-package corejava;
+package corejava.Stringbuffer;
 
 public class StringBufferDemo {
 

@@ -1,8 +1,8 @@
-package corejava;
+package corejava.threaddemo;
 
 import java.util.Scanner;
 
-public class JoinThreadDemo extends ThreadClass{
+public class JoinThreadDemo extends ThreadClass {
 
     static int n,sum=0;
 

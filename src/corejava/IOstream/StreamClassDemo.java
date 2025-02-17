@@ -1,6 +1,5 @@
-package corejava;
+package corejava.IOstream;
 
-import java.io.*;
 import java.util.StringTokenizer;
 
 public class StreamClassDemo {
