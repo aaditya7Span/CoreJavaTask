@@ -1,4 +1,4 @@
-package java8;
+package java8.lamdafunction;
 /*
 It is anonymus function
         not having Name

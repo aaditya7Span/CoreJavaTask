@@ -16,7 +16,7 @@ public class ReservationDaoImpl implements ReservationDao {
         flights =new HashMap<>();
         Flights flight1=new Flights();
 
-        flight1.setId(1l);
+        flight1.setId(1L);
         flight1.setFlightNumber("123");
         flight1.setOperatingAirline("American");
         flight1.setDeparctureCity("Austin");
@@ -28,7 +28,7 @@ public class ReservationDaoImpl implements ReservationDao {
 
         Flights flight2=new Flights();
 
-        flight2.setId(2l);
+        flight2.setId(2L);
         flight2.setFlightNumber("98123");
         flight2.setOperatingAirline("Jalva");
         flight2.setDeparctureCity("Bapunagar");

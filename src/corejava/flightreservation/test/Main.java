@@ -12,14 +12,14 @@ public class Main {
         Reservation reservation=new Reservation();
         Passengers passenger =new Passengers();
 
-        passenger.setId(123l);
+        passenger.setId(123L);
         passenger.setFirstname("aadi");
         passenger.setLastname("jsoje");
         passenger.setMiddlename("johnn");
         passenger.setEmail("aadi@gmail.com");
         passenger.setPhone("91091910");
 
-        reservation.setFlightNumber(1l);
+        reservation.setFlightNumber(1L);
 
         System.out.println(dao.bookFlight(reservation));
     }
