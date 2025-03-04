@@ -1,4 +1,4 @@
-package corejava.Exceptionhandling;
+package corejava.exception_handling;
 
 public class ThrowKeyword {
     //throw Keyword (Manually Throwing Exceptions)
